@@ -1,0 +1,27 @@
+*{
+    margin: 0px; 
+    padding: 0px;
+
+}
+.btn{
+    display: block !important;
+    margin: 0;
+    padding: 0;
+}
+
+#play{
+    width: 15%;
+}
+
+#stop{
+    width: 15%;
+}
+
+
+.box{
+    width: 200px;
+    height: 400px;
+    background-color: teal;
+    display: inline;
+    padding: 0;
+}
